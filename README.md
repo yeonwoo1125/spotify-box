@@ -13,7 +13,7 @@
 This code was heavily inspired by [@jacc's music-box](https://github.com/jacc/music-box).
 
 ## 🎒 Prep Work
-
+       
 1. Create a new public GitHub Gist (<https://gist.github.com/>)
 2. Create a token with the `gist` scope and copy it. (<https://github.com/settings/tokens/new>)
 3. Create a Spotify Application and get certified, detail steps you can see below.
